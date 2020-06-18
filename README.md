@@ -27,9 +27,9 @@ the program works with .jpg and .png types
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
 Please make sure to update tests as appropriate.
+For more information please contact by: lampstack@yahoo.com
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-For more information please contact by: lampstack@yahoo.com
+

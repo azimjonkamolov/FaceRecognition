@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 To test the face, the file must be named as test and data type must be wether .jpg or .png, and compared pictures must be inside of faces folder than open your command line inside of the folder where it is located and run:
 ```python
-    python face.py
+python face.py
 ```
 Then it will give the output
 

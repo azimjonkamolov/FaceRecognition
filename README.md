@@ -7,21 +7,19 @@
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+To run the proect, you must have C++ and Python installed on your computer, and then clone the repository, use the package manager [pip](https://pip.pypa.io/en/stable/) to install all the requirements. 
 
 ```bash
-pip install foobar
+pip install -r requirements.txt
 ```
 
 ## Usage
 
+To test the face, the file must be named as test and data type must be wether .jpg or .png, and compared pictures must be inside of faces folder than open your command line inside of the folder where it is located and run:
 ```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+    python face.py
 ```
+Then it will give the output
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
